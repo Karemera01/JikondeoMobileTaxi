@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "jikondeotaxi",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/karemerakwizeragerard/Documents/Taxi 2/TaxiApp/JikondeoTaxi/amplify/backend/api/jikondeotaxi/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
